@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <ClCompile Include="源.cpp">
+=======
+    <ClCompile Include="count_cpp_file.cpp">
+>>>>>>> Stashed changes
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
